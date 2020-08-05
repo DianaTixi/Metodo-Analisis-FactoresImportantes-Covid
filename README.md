@@ -9,7 +9,7 @@ Archivo DatosProcesadosCovid19:
 - Archivo csv de que contiene el resultado del procesamiento de las variables categoricas a numericas y asu ves una estandirizacion de los valor numericos.
 
 Archivo HTML:
-Cuaderno de Jupyter en version html 
+- Cuaderno de Jupyter en version HTML
 
 # Requisitos
 - Python 2.7
